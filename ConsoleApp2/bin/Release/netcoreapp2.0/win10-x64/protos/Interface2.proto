@@ -1,0 +1,11 @@
+syntax = "proto3";
+package Interface2Service
+message AccountOutput{
+	string requestId=1
+	Int64  name=2;
+	Int32  aa=3;
+	  dic=4;
+}
+
+rpc GetAccount(GetAccountInputRequest) returns(AccountoutputResponse){
+}

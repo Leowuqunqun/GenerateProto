@@ -1,0 +1,19 @@
+syntax = "proto3";
+package Interface2Service;
+service C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\protos\Interface2.protoService {
+rpc GetAccount(GetAccountInputRequest) returns(AccountOutputResponse){
+}
+
+}
+message GetAccountInputRequest{
+	string request_id=2;
+	string  id=2;
+}
+
+message AccountOutputResponse{
+	int32 code =2;
+	string message =3;
+	int64  account_name=3;
+	dictionary`2  dic=4;
+}
+

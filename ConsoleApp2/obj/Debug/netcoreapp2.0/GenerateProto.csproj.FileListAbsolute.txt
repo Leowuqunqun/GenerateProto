@@ -1,0 +1,14 @@
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\GenerateProto.deps.json
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\GenerateProto.runtimeconfig.json
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\GenerateProto.runtimeconfig.dev.json
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\GenerateProto.dll
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\GenerateProto.pdb
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\ClassLibrary1.dll
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\ClassLibrary1.pdb
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\GenerateProto.csprojResolveAssemblyReference.cache
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\GenerateProto.csproj.CoreCompileInputs.cache
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\GenerateProto.AssemblyInfoInputs.cache
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\GenerateProto.AssemblyInfo.cs
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\GenerateProto.csproj.CopyComplete
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\GenerateProto.dll
+C:\Users\mingdao\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\GenerateProto.pdb

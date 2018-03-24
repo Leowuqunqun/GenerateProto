@@ -7,9 +7,9 @@
 
 ## 后续特性增加
 
-    + 将代码中的注释映射到proto文件中
-    + <b>重要</b>对更多protobuffer类型和C#的类型进行对应
-    + 集成AutoMapper，自动映射类型转换
-    + 对内置Attribute的解析、例如:Required之类的
+    1. 将代码中的注释映射到proto文件中
+    2. 对更多protobuffer类型和C#的类型进行对应
+    3. 集成AutoMapper，自动映射类型转换
+    4. 对内置Attribute的解析、例如:Required之类的
 
 

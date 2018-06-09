@@ -17,7 +17,7 @@ namespace GenerateProto
             /**
              * exe
              */
-            string arg = @"D:\Solution\ConsoleApp2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll";
+            string arg = "";
             var app = new CommandLineApplication();
             app.Command("path", (command) =>
             {
